@@ -1,8 +1,8 @@
-name:amazonRDP
+name: amazonRDP
 
 on: workflow_dispatch
 
-jobs:
+jobs: 
   build:
 
     runs-on: windows-latest
